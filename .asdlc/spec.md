@@ -1,10 +1,10 @@
 # Overview
 
-The **asdlc-test** project is a simple "Hello World" web application intended to serve as a baseline or proof-of-concept for a web-based system. It displays a greeting message to users who access it via a web browser, confirming that the application is running correctly.
+The **asdlc-test** project is a simple  "Hello World" web application intended to serve as a baseline or proof-of-concept for a web-based system. It displays a greeting message to users who access it via a web browser, confirming that the application is running correctly.
 
 The target users are developers and stakeholders who need to verify that the foundational web application infrastructure is operational. The application follows a straightforward request-response model: a user visits a URL and receives a rendered page displaying a "Hello World" message.
 
-While minimal in scope, the application must meet basic standards for reliability, accessibility, and correctness so that it can serve as a trustworthy starting point for further development.
+While minimal in scope, the application must meet basic standards for reliability, accessibility, and correctness so that it can serve as a trustworthy starting point for further development.bb
 
 ---
 
