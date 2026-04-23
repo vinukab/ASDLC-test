@@ -1,4 +1,4 @@
-# Overview sample
+# Overview
 
 The **asdlc-test** project is a simple "Hello World" web application intended to serve as a baseline or proof-of-concept for a web-based system. It displays a greeting message to users who access it via a web browser, confirming that the application is running correctly.
 
